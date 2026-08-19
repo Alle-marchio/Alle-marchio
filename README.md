@@ -14,7 +14,7 @@ Computer Engineering graduate from UNIMORE (Mantova campus), interested in IoT, 
 
 ---
 
-**contact📫**
+**contacts 📫**
 - alessandro.marchio03@gmail.com
 - www.linkedin.com/in/alessandro-marchiò
 <!--
